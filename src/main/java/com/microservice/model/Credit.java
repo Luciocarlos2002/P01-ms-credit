@@ -14,7 +14,7 @@ public class Credit {
 
     @Id
     private String id;
-    private String accountId;
+    private String customerId;
     private String issuerBank;
     private String typeCredit;
     private String dateDue;
